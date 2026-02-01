@@ -1,0 +1,13 @@
+{
+  "name": "api-word-counter-strict-v1",
+  "version": "1.0.0",
+  "description": "Stateless strict word counter API. Counts whitespace-separated words only.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
